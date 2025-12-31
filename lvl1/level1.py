@@ -16,7 +16,7 @@ if __name__ == "__main__":
     
     # we instantiate an accumulator, init at 50
     acc = 50
-    # and a counter for the number of zero crossings, init at 0
+    # and a counter for the number of zero-pointings, init at 0
     ctr = 0
 
     # for loop on the list of turns, retrieving the letter to convert to minus or plus
