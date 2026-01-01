@@ -5,7 +5,7 @@ sys.path.append(str(Path(__file__).parent.parent))
 from input_loader import InputLoader
 import re
 
-lvl1_file = "lvl1/level1_puzzle_input.txt"
+lvl1_file = "day1/day1_puzzle_input.txt"
 loader = InputLoader(lvl1_file)
 input = loader.content
 
