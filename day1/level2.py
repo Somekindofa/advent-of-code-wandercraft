@@ -2,7 +2,7 @@
 import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).parent.parent))
-from lvl1.level1 import input_to_signed_numbers
+from day1.level1 import input_to_signed_numbers
 from input_loader import InputLoader
 
 ### Let's import the answer from level1
